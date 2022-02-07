@@ -1,1 +1,29 @@
-
+const carlist = [
+    {
+        "name": "Suziki Swift",
+        "category": "Budget",
+        "persons":4,
+        "suitcases":1,
+        "comfort": "Low",
+        "image": "swift.jpg",
+        "priceperday":100
+    },
+    {
+        "name":"Mazda 3",
+        "category":"Standard",
+        "persons":5,
+        "suitcases":3,
+        "comfort":"Medium",
+        "image":"mazda.jpg",
+        "priceperday": 160
+    },
+    {
+        "name":"Citroën Grand C4 Picasso",
+        "category":"Minivan",
+        "persons":7,
+        "suitcases":4,
+        "comfort":"High",
+        "image":"citroen.jpg",
+        "priceperday": 205
+    }
+]
